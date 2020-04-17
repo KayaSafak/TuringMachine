@@ -1,0 +1,11 @@
+C:/Users/sfkkt/OneDrive/Masaüstü/turing/turing_machine.vhd {0 {vcom -work work -2002 -explicit -stats=none C:/Users/sfkkt/OneDrive/Masaüstü/turing/turing_machine.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/sfkkt/OneDrive/Masaüstü/turing/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vcom-9) Problem while writing token file "C:/Users/sfkkt/OneDrive/Masaüstü/turing/work/_temp/vcom93kia9".
+
+Sistem belirtilen yolu bulamýyor. (GetLastError() = 3)
+** Error: C:/Users/sfkkt/OneDrive/Masaüstü/turing/turing_machine.vhd(2): VHDL Compiler exiting
+
+} {9.0 10.0} {}}
